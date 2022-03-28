@@ -2,12 +2,7 @@
 // вывод в виде списка
 // При наведении на элемент списка он должен выделяться и под курсором должно отображаться полное название валюты в tooltip.
 // При клике на элемент списка отображается список по данной валюте за 10 дней.
-//https://hh.ru/vacancy/53638235?from=vacancy&hhtmFrom=vacancy&hhtmFromLabel=suitable_vacancies
-// Залесский Кирилл
 
-// +7 (915) 0101235, Пишите в What's up или Telegram (Ни в коем случае не звонить)
-
-// zalesskyk@gmail.com
 
 let $place = document.querySelector('.workPlace')
 let $previous = document.querySelector('.previous') 
